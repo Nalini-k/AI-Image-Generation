@@ -1,0 +1,1 @@
+Developed a Full Stack MERN (MongoDB, Express.js, React, Node.js) AI Image Generation web application leveraging Stable Diffusion 2.0 to transform text prompts into stunning visuals . Utilized React, Tailwind CSS for a responsive frontend and Node.js, Express for a robust backend API. Implemented seamless sharing capabilities for optimal user experience.
